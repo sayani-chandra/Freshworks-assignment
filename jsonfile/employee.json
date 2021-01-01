@@ -1,0 +1,24 @@
+{
+         "1":
+         {
+         "street": "abc",
+         "city": "Hyderabad",
+         "state": "TL"
+         },
+         
+         "2":
+         { 
+         "street": "xyz",
+         "city": "Chennai",
+         "state": "TN"
+         },
+         
+         "3":
+         {
+         "street": "mno",
+         "city": "Kolkata",
+         "state": "WB"
+         }
+         
+     
+}
